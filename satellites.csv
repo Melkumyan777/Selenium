@@ -1,0 +1,542 @@
+#Federal Aviation Administration
+
+Date,Payload,Vehicle,Company,Site
+20230430,ViaSat 3.1,Falcon Heavy,Space Exploration Technologies Corporation,FL
+20230428,mPOWER-B,Falcon 9,Space Exploration Technologies Corporation,FL
+20230427,Starlink Group 3-5,Falcon 9,Space Exploration Technologies Corporation,CA
+20230420,Flight 1,Starship Super Heavy,Space Exploration Technologies Corporation,TX
+20230419,Starlink Group 6-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20230415,Transporter-7,Falcon 9,Space Exploration Technologies Corporation,CA
+20230407,Intelsat 40e,Falcon 9,Space Exploration Technologies Corporation,FL
+20230402,SDA-0A,Falcon 9,Space Exploration Technologies Corporation,CA
+20230329,Starlink Group 5-10,Falcon 9,Space Exploration Technologies Corporation,FL
+20230324,Starlink Group 5-5,Falcon 9,Space Exploration Technologies Corporation,FL
+20230324,"Flight 35 ""The Beat Goes On""",Electron,Rocket Lab Global,NZ
+20230323,N/A,Terran 1,"Relativity Space, Inc.",FL
+20230317,SES 18 + 19,Falcon 9,Space Exploration Technologies Corporation,FL
+20230317,Starlink Group 2-8,Falcon 9,Space Exploration Technologies Corporation,CA
+20230316,"Flight 34 ""Stronger Together""",Electron,Rocket Lab Global,VA
+20230314,CRS-27,Falcon 9,Space Exploration Technologies Corporation,FL
+20230309,OneWeb 3,Falcon 9,Space Exploration Technologies Corporation,FL
+20230303,Starlink Group 2-7,Falcon 9,Space Exploration Technologies Corporation,CA
+20230302,Crew-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20230227,Starlink Group 6-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20230217,Inmarsat 6F2,Falcon 9,Space Exploration Technologies Corporation,FL
+20230217,Starlink Group 2-5,Falcon 9,Space Exploration Technologies Corporation,CA
+20230212,Starlink Group 5-4,Falcon 9,Space Exploration Technologies Corporation,FL
+20230206,Amazonas-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20230202,Starlink Group 5-3,Falcon 9,Space Exploration Technologies Corporation,FL
+20230131,Starlink Group 2-6,Falcon 9,Space Exploration Technologies Corporation,CA
+20230126,Starlink Group 5-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20230124,"F33 ""Virginia is for Launch Lovers""",Electron,Rocket Lab Global,VA
+20230119,Starlink Group 2-4,Falcon 9,Space Exploration Technologies Corporation,CA
+20230110,Demonstration Mission-1,RS1,ABL Space Systems,AK
+20230110,OneWeb-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20230109,Flight 6,LauncherOne (L1),"Virgin Orbit, LLC",UK
+20230103,Transporter-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20221230,EROS C,Falcon 9,Space Exploration Technologies Corporation,CA
+20221228,Starlink Group 5-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20221217,Starlink Group 4-37,Falcon 9,Space Exploration Technologies Corporation,FL
+20221216,mPOWER-A,Falcon 9,Space Exploration Technologies Corporation,FL
+20221211,ispace M1,Falcon 9,Space Exploration Technologies Corporation,FL
+20221208,OneWeb 1,Falcon 9,Space Exploration Technologies Corporation,FL
+20221126,CRS-26,Falcon 9,Space Exploration Technologies Corporation,FL
+20221122,Eutelsat 10B,Falcon 9,Space Exploration Technologies Corporation,FL
+20221112,Intelsat G-31/G-32,Falcon 9,Space Exploration Technologies Corporation,FL
+20221107,NG-18 Cygnus,Antares,"Orbital Sciences, LLC",VA
+20221104,Flight 32 “Catch Me If You Can”,Electron,Rocket Lab Global,NZ
+20221103,Eutelsat HOTBIRD-F2,Falcon 9,Space Exploration Technologies Corporation,FL
+20221027,Starlink Group 4-31,Falcon 9,Space Exploration Technologies Corporation,CA
+20221020,Starlink Group 4-36,Falcon 9,Space Exploration Technologies Corporation,FL
+20221015,Eutelsat HOTBIRD-F1,Falcon 9,Space Exploration Technologies Corporation,FL
+20221008,Intelsat G-33/G-34,Falcon 9,Space Exploration Technologies Corporation,FL
+20221007,"F31 ""It Argos Up From Here""",Electron,Rocket Lab Global,NZ
+20221005,Starlink Group 4-29,Falcon 9,Space Exploration Technologies Corporation,CA
+20221005,Crew-5,Falcon 9,Space Exploration Technologies Corporation,FL
+20221004,SES 20-21,Atlas V,United Launch Alliance,FL
+20221001,FLTA002,Alpha,Firefly Aerospace,CA
+20220924,Starlink Group 4-35,Falcon 9,Space Exploration Technologies Corporation,FL
+20220918,Starlink Group 4-34,Falcon 9,Space Exploration Technologies Corporation,FL
+20220915,"F30 ""The Owl Spreads Its Wings""",Electron,Rocket Lab Global,NZ
+20220912,NS-23 / P12,New Shepard System,Blue Origin,TX
+20220910,Starlink Group 4-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20220904,Starlink Group 4-20,Falcon 9,Space Exploration Technologies Corporation,FL
+20220831,Starlink Group 3-4,Falcon 9,Space Exploration Technologies Corporation,CA
+20220827,Starlink Group 4-23,Falcon 9,Space Exploration Technologies Corporation,FL
+20220819,Starlink Group 4-27,Falcon 9,Space Exploration Technologies Corporation,FL
+20220812,Starlink 3-3,Falcon 9,Space Exploration Technologies Corporation,CA
+20220809,Starlink Group 4-26,Falcon 9,Space Exploration Technologies Corporation,FL
+20220804,KPLO,Falcon 9,Space Exploration Technologies Corporation,FL
+20220804,NS-22/A2,New Shepard System,Blue Origin,TX
+20220804,"F29 NROL-199 (""Antipodean Adventure"")",Electron,Rocket Lab Global,NZ
+20220724,Starlink Group 4-25,Falcon 9,Space Exploration Technologies Corporation,FL
+20220722,Starlink Group 3-2,Falcon 9,Space Exploration Technologies Corporation,CA
+20220717,Starlink Group 4-22,Falcon 9,Space Exploration Technologies Corporation,FL
+20220714,CRS-25,Falcon 9,Space Exploration Technologies Corporation,FL
+20220713,F28 NROL-162 (Wise One Looks Ahead),Electron,Rocket Lab Global,NZ
+20220710,Starlink Group 3-1,Falcon 9,Space Exploration Technologies Corporation,CA
+20220707,Starlink Group 4-21,Falcon 9,Space Exploration Technologies Corporation,FL
+20220702,Flight 5,LauncherOne (L1),"Virgin Orbit, LLC",CA
+20220629,SES-22,Falcon 9,Space Exploration Technologies Corporation,FL
+20220628,Flight 27 Capstone,Electron,Rocket Lab Global,NZ
+20220619,Globalstar-FM15,Falcon 9,Space Exploration Technologies Corporation,FL
+20220618,SARah-1,Falcon 9,Space Exploration Technologies Corporation,CA
+20220617,Starlink Group 4-19,Falcon 9,Space Exploration Technologies Corporation,FL
+20220612,LV0010/TROPICS-1,Rocket 3.3,Astra,FL
+20220608,Nilesat-301,Falcon 9,Space Exploration Technologies Corporation,FL
+20220604,NS-21/A1,New Shepard System,Blue Origin,TX
+20220525,Transporter-5,Falcon 9,Space Exploration Technologies Corporation,FL
+20220518,Starlink Group 4-18,Falcon 9,Space Exploration Technologies Corporation,FL
+20220514,Starlink Group 4-15,Falcon 9,Space Exploration Technologies Corporation,FL
+20220513,Starlink Group 4-13,Falcon 9,Space Exploration Technologies Corporation,CA
+20220506,Starlink Group 4-17,Falcon 9,Space Exploration Technologies Corporation,FL
+20220502,"F26 ""There and Back Again""",Electron,Rocket Lab Global,NZ
+20220429,Starlink Group 4-16,Falcon 9,Space Exploration Technologies Corporation,FL
+20220427,Crew-4,Falcon 9,Space Exploration Technologies Corporation,FL
+20220421,Starlink Group 4-14,Falcon 9,Space Exploration Technologies Corporation,FL
+20220408,Axiom-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20220402,"FF25 ""Without Mission a Beat""",Electron,Rocket Lab Global,NZ
+20220401,Transporter-4,Falcon 9,Space Exploration Technologies Corporation,FL
+20220331,NS-20/M18,New Shepard System,Blue Origin,TX
+20220319,Starlink Group 4-12,Falcon 9,Space Exploration Technologies Corporation,FL
+20220315,LV0009,Astra Rocket v3.3,Astra,AK
+20220309,Starlink Group 4-10,Falcon 9,Space Exploration Technologies Corporation,FL
+20220303,Starlink Group 4-9,Falcon 9,Space Exploration Technologies Corporation,FL
+20220228,"Flight 24 ""The Owl's Night Continues""",Electron,Rocket Lab Global,NZ
+20220225,Starlink Group 4-11,Falcon 9,Space Exploration Technologies Corporation,CA
+20220221,Starlink Group 4-8,Falcon 9,Space Exploration Technologies Corporation,FL
+20220219,NG-17,Antares,"Orbital Sciences, LLC",VA
+20220210,VCLS Demo-2,Rocket 3.3,"Astra Space, Inc.",FL
+20220203,Starlink Group 4-7,Falcon 9,Space Exploration Technologies Corporation,FL
+20220131,COSMO-SkyMed,Falcon 9,Space Exploration Technologies Corporation,FL
+20220118,Starlink Group 4-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20220113,Flight 4,LauncherOne (L1),"Virgin Orbit, LLC",CA
+20220113,F9-137 Transporter-3,Falcon 9,Space Exploration Technologies Corporation,FL
+20220106,Starlink Group 4-5,Falcon 9,Space Exploration Technologies Corporation,FL
+20211221,CRS-24,Falcon 9,Space Exploration Technologies Corporation,FL
+20211218,Turksat-5B,Falcon 9,Space Exploration Technologies Corporation,FL
+20211218,Starlink Group 4-4,Falcon 9,Space Exploration Technologies Corporation,CA
+20211211,NS-19/M17,New Shepard System,Blue Origin,TX
+20211208,"Flight 23 ""A Data With Destiny""",Electron,Rocket Lab Global,NZ
+20211202,Starlink Group 4-3,Falcon 9,Space Exploration Technologies Corporation,FL
+20211120,LV0007 (mass simulator),Rocket 3.3,Astra,AK
+20211117,"Flight 22 ""Love at First Insight""",Electron,Rocket Lab Global,NZ
+20211113,Starlink Group 4-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20211110,Crew-3,Falcon 9,Space Exploration Technologies Corporation,FL
+20211013,NS-18/M16,New Shepard System,Blue Origin,TX
+20210916,Inspiration4,Falcon 9,Space Exploration Technologies Corporation,FL
+20210913,Starlink v1.5 Group 2-1,Falcon 9,Space Exploration Technologies Corporation,CA
+20210902,FLTA001-DREAM,Alpha,Firefly Aerospace,CA
+20210829,CRS-23,Falcon 9,Space Exploration Technologies Corporation,FL
+20210828,Mass Simulator,Rocket 3.3LV0006,Astra,AK
+20210826,NS-17/P11,New Shepard System,Blue Origin,TX
+20210810,NG-16,Antares,Orbital Sciences Corp,VA
+20210729,Monolith,Electron,Rocket Lab Global,NZ
+20210720,NS-16/M15,New Shepard System,Blue Origin,TX
+20210711,VH-01,SpaceShipTwo,Virgin Galactic,NM
+20210630,Transporter-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20210630,Flight 3,LauncherOne (L1),"Virgin Orbit, LLC",CA
+20210613,TacRL-2,Pegasus XL,"Orbital Sciences, LLC",CA
+20210606,SiriusXM-8,Falcon 9,Space Exploration Technologies Corporation,FL
+20210603,CRS-22,Falcon 9,Space Exploration Technologies Corporation,FL
+20210526,Starlink v1.0-28,Falcon 9,Space Exploration Technologies Corporation,FL
+20210522,VF02-02,SpaceShipTwo,Virgin Galactic,NM
+20210515,Starlink v1.0-26,Falcon 9,Space Exploration Technologies Corporation,FL
+20210515,"F20 ""Running out of Toes""",Electron,Rocket Lab Global,NZ
+20210509,Starlink v1.0-27,Falcon 9,Space Exploration Technologies Corporation,FL
+20210505,Suborbital Flight 5 (SN15),Starship Prototype,Space Exploration Technologies Corporation,TX
+20210504,Starlink v1.0-25,Falcon 9,Space Exploration Technologies Corporation,FL
+20210429,Starlink v1.0-24,Falcon 9,Space Exploration Technologies Corporation,FL
+20210423,Crew-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20210414,NS-15/M14,New Shepard System,Blue Origin,TX
+20210407,Starlink v1.0-23,Falcon 9,Space Exploration Technologies Corporation,FL
+20210330,SN11,Starship Prototype,Space Exploration Technologies Corporation,TX
+20210324,Starlink v1.0-22,Falcon 9,Space Exploration Technologies Corporation,FL
+20210322,"F19 ""They Go Up So Fast""",Electron,Rocket Lab Global,NZ
+20210314,Starlink v1.0-21,Falcon 9,Space Exploration Technologies Corporation,FL
+20210311,Starlink v1.0-20,Falcon 9,Space Exploration Technologies Corporation,FL
+20210304,Starlink v1.0-17,Falcon 9,Space Exploration Technologies Corporation,FL
+20210303,SN10 Suborbital Flight,Starship Prototype,Space Exploration Technologies Corporation,TX
+20210220,NG-15,Antares,Orbital Sciences Corp,VA
+20210216,Starlink v1.0-19,Falcon 9,Space Exploration Technologies Corporation,FL
+20210204,Starlink v1.0-18,Falcon 9,Space Exploration Technologies Corporation,FL
+20210202,SN9 Suborbital Flight,Starship Prototype,Space Exploration Technologies Corporation,TX
+20210124,Transporter-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20210120,Starlink v1.0-16,Falcon 9,Space Exploration Technologies Corporation,FL
+20210120,Kramer/Another One Leaves the Crust,Electron,Rocket Lab Global,NZ
+20210117,Flight 2,LauncherOne (L1),"Virgin Orbit, LLC",CA
+20210114,NS-14/M13,New Shepard System,Blue Origin,TX
+20210107,Turksat-5A,Falcon 9,Space Exploration Technologies Corporation,FL
+20201219,NROL-108,Falcon 9,Space Exploration Technologies Corporation,FL
+20201215,Test Launch,Rocket 3.2,Astra,AK
+20201215,Flight 17 / SARdine,Electron,Rocket Lab Global,NZ
+20201213,SiriusXM-7,Falcon 9,Space Exploration Technologies Corporation,FL
+20201212,VF02,SpaceShipTwo,Virgin Galactic,NM
+20201209,15km Hop,Starship Prototype,Space Exploration Technologies Corporation,TX
+20201206,CRS-21,Falcon 9,Space Exploration Technologies Corporation,FL
+20201124,Starlink v1.0-15,Falcon 9,Space Exploration Technologies Corporation,FL
+20201119,Flight 16 / Bonnie,Electron,Rocket Lab Global,NZ
+20201115,Crew-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20201028,"Flight 15/Papa1 ""In Focus""",Electron,Rocket Lab Global,NZ
+20201024,Starlink v1.0-14,Falcon 9,Space Exploration Technologies Corporation,FL
+20201018,Starlink v1.0-13,Falcon 9,Space Exploration Technologies Corporation,FL
+20201013,NS13 P10,New Shepard System,Blue Origin,TX
+20201006,Starlink v1.0-12,Falcon 9,Space Exploration Technologies Corporation,FL
+20201002,NG-14,Antares,Northrop Grumman,VA
+20200911,Test Launch 3.1,Astra Rocket 3,Astra,AK
+20200903,150m Hop,Starship Hopper,Space Exploration Technologies Corporation,TX
+20200903,Starlink v1.0-11,Falcon 9,Space Exploration Technologies Corporation,FL
+20200830,Capella-2,Electron,Rocket Lab Global,NZ
+20200830,SAOCOM-1B,Falcon 9,Space Exploration Technologies Corporation,FL
+20200818,Starlink v1.0-10,Falcon 9,Space Exploration Technologies Corporation,FL
+20200807,Starlink v1.0-9,Falcon 9,Space Exploration Technologies Corporation,FL
+20200804,150M Hop,Starship Prototype,Space Exploration Technologies Corporation,TX
+20200720,K-MILSAT 1,Falcon 9,Space Exploration Technologies Corporation,FL
+20200704,Exposure,Electron,Rocket Lab Global,NZ
+20200613,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20200613,Big Ben,Electron,Rocket Lab Global,NZ
+20200603,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20200525,Flight 1,LauncherOne (L1),"Virgin Orbit, LLC",CA
+20200422,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20200318,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20200306,CRS-20,Falcon 9,Space Exploration Technologies Corporation,FL
+20200217,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20200215,NG-13 Cygnus,Antares,Northrop Grumman,VA
+20200130,L-151,Electron,Rocket Lab USA,NZ
+20200129,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20200119,Crew Dragon/In-Flight Abort,Falcon 9,Space Exploration Technologies Corporation,FL
+20200106,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20191216,JCSAT-18,Falcon 9,Space Exploration Technologies Corporation,FL
+20191211,NS4 P9,New Shepard System,Blue Origin,TX
+20191206,Pinball / Running Out of Fingers,Electron,Rocket Lab USA,NZ
+20191205,CRS-19,Falcon 9,Space Exploration Technologies Corporation,FL
+20191111,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20191102,NG-12 Cygnus,Antares,Northrop Grumman,VA
+20191026,M4,SARGE,Exos Aerospace,NM
+20191016,Palisade,Electron,Rocket Lab Global,NZ
+20190819,PEARLWHITE,Electron,Rocket Lab USA,NZ
+20190806,Amos-17,Falcon 9,Space Exploration Technologies Corporation,FL
+20190725,CRS-18,Falcon 9,Space Exploration Technologies Corporation,FL
+20190701,M3,SARGE,Exos Aerospace,NM
+20190629,BLACKSKY,Electron,Rocket Lab USA,NZ
+20190612,RadarSat,Falcon 9,Space Exploration Technologies Corporation,CA
+20190523,Starlink,Falcon 9,Space Exploration Technologies Corporation,FL
+20190505,STP-27RD,Electron,Rocket Lab USA,NZ
+20190504,Dragon capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20190502,NS4 P8,New Shepard System,Blue Origin,TX
+20190417,NG-11 Cygnus,Antares,Orbital Sciences Corp.,VA
+20190411,Arabsat 6A,Falcon Heavy,Space Exploration Technologies Corporation,FL
+20190328,Yellowfin,Electron,Rocket Lab USA,NZ
+20190302,M1,SARGE,Exos Aerospace,NM
+20190222,VF-01,SpaceShipTwo,Virgin Galactic,CA
+20190221,PSN VI,Falcon 9,Space Exploration Technologies Corporation,FL
+20190123,P7,New Shepard System,Blue Origin,TX
+20190111,Iridium-7,Falcon 9,Space Exploration Technologies Corporation,CA
+20181216,ELaNa XIX,Electron,Rocket Lab USA,NZ
+20181213,VP-03,SpaceShipTwo,Virgin Galactic,CA
+20181205,CRS-16,Falcon 9,Space Exploration Technologies Corporation,FL
+20181203,SSO-A,Falcon 9,Space Exploration Technologies Corporation,CA
+20181129,N/A,Astra Rocket 2,Astra,AK
+20181117,NG-10 Cygnus,Antares,Orbital Sciences Corp.,VA
+20181115,Es'Hail-2,Falcon 9,Space Exploration Technologies Corporation,FL
+20181110,It's Business Time,Electron,Rocket Lab USA,NZ
+20181007,SAOCOM-1A,Falcon 9,Space Exploration Technologies Corporation,CA
+20180910,Telstar 18V,Falcon 9,Space Exploration Technologies Corporation,FL
+20180825,Pathfinder 1,SARGE,Exos Aerospace,NM
+20180807,Telkom-4,Falcon 9,Space Exploration Technologies Corporation,FL
+20180726,N/A,SpaceShipTwo,Virgin Galactic,CA
+20180725,Iridium-6,Falcon 9,Space Exploration Technologies Corporation,CA
+20180722,Telstar 19V,Falcon 9,Space Exploration Technologies Corporation,FL
+20180720,N/A,Astra Rocket 1,"Astra Space, Inc.",AK
+20180718,Multiple Payloads,PM4,Blue Origin,TX
+20180629,CRS-15,Falcon 9,Space Exploration Technologies Corporation,FL
+20180604,SES-12,Falcon 9,Space Exploration Technologies Corporation,FL
+20180529,VP01-2,SpaceShipTwo,Virgin Galactic,CA
+20180522,Iridium GRACE FO,Falcon 9,Space Exploration Technologies Corporation,CA
+20180521,OA-9 Cygnus,Antares,Orbital ATK,VA
+20180511,BangabandhuSat-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20180429,M8,New Shepard System,Blue Origin,TX
+20180405,N/A,SpaceShipTwo,Virgin Galactic,CA
+20180402,CRS-14,Falcon 9,Space Exploration Technologies Corporation,FL
+20180330,Iridium-5,Falcon 9,Space Exploration Technologies Corporation,CA
+20180306,HispaSat 30W-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20180222,Paz/Demosat,Falcon 9,Space Exploration Technologies Corporation,CA
+20180206,Tesla Roadster,Falcon Heavy,Space Exploration Technologies Corporation,FL
+20180131,GovSat-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20180120,StillTesting,Electron,Rocket Lab USA,NZ
+20180107,Zuma,Falcon 9,Space Exploration Technologies Corporation,FL
+20171222,Iridium-4,Falcon 9,Space Exploration Technologies Corporation,CA
+20171215,Dragon,Falcon 9,Space Exploration Technologies Corporation,FL
+20171212,Blue Origin Crew Capsule,New Shepard System,Blue Origin,TX
+20171113,OA-8 Cygnus,Antares,Orbital Sciences Corp.,VA
+20171031,Skybox,Minotaur-C,Orbital Sciences Corp.,CA
+20171030,KoreaSat-5A,Falcon 9,Space Exploration Technologies Corporation,FL
+20171011,SES-11,Falcon 9,Space Exploration Technologies Corporation,FL
+20171009,Iridium-3,Falcon 9,Space Exploration Technologies Corporation,CA
+20170826,ORS-5,Minotaur IV,Orbital ATK,FL
+20170824,Formosat-5,Falcon 9,Space Exploration Technologies Corporation,CA
+20170814,CRS-12,Falcon 9,Space Exploration Technologies Corporation,FL
+20170705,Intelsat-35,Falcon 9,Space Exploration Technologies Corporation,FL
+20170625,Iridium-2,Falcon 9,Space Exploration Technologies Corporation,CA
+20170623,Bulgaria SAT-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20170603,Dragon CRS-11,Falcon 9,Space Exploration Technologies Corporation,FL
+20170525,Humanity Star,Electron,Rocket Lab USA,NZ
+20170515,Inmarsat-5 F-4,Falcon 9,Space Exploration Technologies Corporation,FL
+20170501,NROL-76,Falcon 9,Space Exploration Technologies Corporation,FL
+20170418,OA-7 Cygnus,Atlas V,United Launch Alliance,FL
+20170330,SES-10,Falcon 9,Space Exploration Technologies Corporation,FL
+20170316,EchoStar-23,Falcon 9,Space Exploration Technologies Corporation,FL
+20170219,Dragon CRS 10,Falcon 9,Space Exploration Technologies Corporation,FL
+20170114,Iridium-1,Falcon 9,Space Exploration Technologies Corporation,CA
+20161218,EchoStar 19,Atlas V,Lockheed Martin Commercial Launch Services,FL
+20161111,Worldview 4,Atlas V,Lockheed Martin Commercial Launch Services,CA
+20161017,OA-5 Cygnus,Antares,Orbital Sciences Corp.,VA
+20160814,JCSat-16,Falcon 9,Space Exploration Technologies Corporation,FL
+20160718,CRS-9,Falcon 9,Space Exploration Technologies Corporation,FL
+20160615,ABS-2A/Eutelsat 117W B,Falcon 9,Space Exploration Technologies Corporation,FL
+20160527,Thaicom 8,Falcon 9,Space Exploration Technologies Corporation,FL
+20160506,JCSat-14,Falcon 9,Space Exploration Technologies Corporation,FL
+20160408,Dragon Spacecraft CRS-8,Falcon 9,Space Exploration Technologies Corporation,FL
+20160322,OA-6 Cygnus,Atlas V,United Launch Alliance,FL
+20160304,SES-9,Falcon 9,Space Exploration Technologies Corporation,FL
+20151221,Orbcomm2,Falcon 9,Space Exploration Technologies Corporation,FL
+20151206,OA-4 Cygnus,Atlas V,United Launch Alliance,FL
+20151002,Morelos-3 Communications Satellite,Atlas V,United Launch Alliance,FL
+20150628,Dragon Spacecraft CRS-7,Falcon 9,Space Exploration Technologies Corporation,FL
+20150506,No payload; Pad Abort Test,Dragon crew,Space Exploration Technologies Corporation,FL
+20150427,TurkmenAlem52E/MonacoSat Communication Satellite,Falcon 9,Space Exploration Technologies Corporation,FL
+20150414,Dragon Spacecraft CRS-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20150301,ABS3/EUTELSAT-1,Falcon 9,Space Exploration Technologies Corporation,FL
+20150110,Dragon Spacecraft CRS-5,Falcon 9,Space Exploration Technologies Corporation,FL
+20141205,Orion Exploration Flight Test 1 (EFT-1) reentry vehicle,Delta IV Heavy,United Launch Alliance,FL
+20141028,Orb-3 Cygnus,Antares,Orbital ATK,VA
+20140921,CRS-4 Dragon 6 Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20140907,AsiaSat-6,Falcon 9,Space Exploration Technologies Corporation,FL
+20140813,WorldView-3 Satellite,Atlas V-401,Lockheed Martin Commercial Launch Services,CA
+20140805,AsiaSat-8,Falcon 9,Space Exploration Technologies Corporation,FL
+20140714,Orbcomm-1 Second Generation Communications Satellites (#1 through #6),Falcon 9,Space Exploration Technologies Corporation,FL
+20140713,Orb-2 Cygnus,Antares,Orbital ATK,VA
+20140526,Eutelsat 3B,Zenit-3SL,"Energia Logistics, Ltd. (ELUS)",Pacific Ocean
+20140418,Dragon,Falcon 9,Space Exploration Technologies Corporation,FL
+20140109,Orb-1 Cygnus,Antares,Orbital ATK,VA
+20140106,THAICOM 6 MISSION,Falcon 9,Space Exploration Technologies Corporation,FL
+20131203,SES-8,Falcon 9,Space Exploration Technologies Corporation,FL
+20131119,ORS-3,Minotaur,Orbital ATK,VA
+20130929,Cassiope,Falcon 9,Space Exploration Technologies Corporation,CA
+20130918,Orb-D1 Cygnus,Antares,Orbital ATK,VA
+20130421,Mass Simulator,Antares,Orbital ATK,VA
+20130301,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20130201,Intelsat 27,Zenit-3SL,"Energia Logistics, Ltd. (ELUS)",Pacific Ocean
+20130105,Scientific,STIG-B III,Armadillo Aerospace,NM
+20121203,Eutelsat 70B,Zenit-3SL,"Energia Logistics, Ltd. (ELUS)",Pacific Ocean
+20121104,Scientific,STIG-B,Armadillo Aerospace,NM
+20121007,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20121006,Scientific,STIG-B,Armadillo Aerospace,NM
+20120818,Intelsat 21,Zenit-3SL,"Energia Logistics, Ltd. (ELUS)",Pacific Ocean
+20120601,Intelsat-19,Zenit-3SL,"Energia Logistics, Ltd. (ELUS)",Pacific Ocean
+20120522,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20110924,Atlantic Bird 7,Zenit-3SL,"Energia Logistics, Ltd. (ELUS)",Pacific Ocean
+20101208,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20101106,COSMO-Skymed 4,Delta II,Boeing Launch Services,CA
+20100604,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20100304,GOES-P,Delta IV,Boeing Launch Services,FL
+20091123,Intelsat 14,Atlas V,Lockheed Martin Commercial Launch Services,FL
+20091008,WorldView-2,Delta II,Boeing Launch Services,CA
+20090714,RazakSat,Falcon 1,Space Exploration Technologies Corporation,MH
+20090627,GOES O,Delta IV,The Boeing Company,FL
+20090420,SICRAL 1B,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20081025,COSMO SkyMed 3,Delta II,The Boeing Company,CA
+20080928,Payload Mass Simulator,Falcon 1,Space Exploration Technologies Corporation,MH
+20080924,Galaxy 19,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20080906,GeoEye 1,Delta II,Boeing Launch Services,CA
+20080802,"Trailblazer, Presat, Nanosail-D",Falcon 1,Space Exploration Technologies Corporation,MH
+20080716,EchoStar XI,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20080521,Galaxy 18,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20080416,C/NOFS,Pegasus XL,Orbital ATK,MH
+20080414,ICO-G1,Atlas V-421,Lockheed Martin Commercial Launch Services,FL
+20080319,DIRECTV 11,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20080115,Thuraya D3,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20071209,COSMO-SkyMed-2,Delta II,Boeing Launch Services,CA
+20070918,WorldView 1,Delta II,Boeing Launch Services,CA
+20070608,COSMO-SkyMed 1,Delta II,McDonnell Douglas Corporation,CA
+20070130,NSS-8,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20061030,XM Radio 4,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20060822,Koreasat 5,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20060618,Galaxy 16,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20060524,GOES N,Delta IV,McDonnell Douglas Corporation,FL
+20060420,Astra 1KR,Atlas V,Lockheed Martin Commercial Launch Services,FL
+20060411,JCSat 9,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20060215,Echostar X,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20051108,INMARSAT-4F2,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20050623,Intelsat Americas 8,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20050426,Spaceway-1,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20050311,INMARSAT-4F1,Atlas V-431,Lockheed Martin Commercial Launch Services,FL
+20050301,XM-3,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20041217,AMC-16,Atlas V-521,Lockheed Martin Commercial Launch Services,FL
+20041004,(Flight 17P),SpaceShipOne,Scaled Composites,CA
+20040929,(Flight 16P),SpaceShipOne,Scaled Composites,CA
+20040629,Telstar 18,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20040621,(Flight 15P),SpaceShipOne,Scaled Composites,CA
+20040520,AMC-11,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+20040517,Rocsat-2,Taurus,Orbital ATK,CA
+20040513,(Flight 14P),SpaceShipOne,Scaled Composites,CA
+20040504,DTV 7S,Zenit,Sea Launch Limited Partnership,Pacific Ocean
+20040416,Superbird-6,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+20040408,(Flight 13P),SpaceShipOne,Scaled Composites,CA
+20040313,MBSat,Atlas IIIA,Lockheed Martin Commercial Launch Services,FL
+20040205,AMC-10,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+20040111,Estrela do Sul,Zenit,Sea Launch Limited Partnership,Pacific Ocean
+20031218,UHF-F11 17,Atlas IIIB,Lockheed Martin Commercial Launch Services,FL
+20031001,Galaxy 13,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20030808,Echostar IX,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20030717,Rainbow,Atlas V,Lockheed Martin Commercial Launch Services,FL
+20030626,Orbview 3,Pegasus XL,Orbital ATK,CA
+20030607,Thuraya II,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20030513,Hellas Sat 2,Atlas V,Lockheed Martin Commercial Launch Services,FL
+20030412,ASIASAT 4,Atlas IIIB,Lockheed Martin Commercial Launch Services,FL
+20021120,EUTELSAT W5,Delta IV,Boeing Launch Services,FL
+20020918,HISPASAT-1D,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+20020821,HOTBIRD 6,Atlas V,Lockheed Martin Commercial Launch Services,FL
+20020730,HyShot 2,Terrier-Orion,Astrotech,AU
+20020615,GALAXY IIIC,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20020221,ECHOSTAR VII,Atlas IIIB,Lockheed Martin Commercial Launch Services,FL
+20020211,IRIDIUM,Delta II,McDonnell Douglas Corporation,CA
+20011029,HyShot 1,Terrier-Orion,Astrotech,AU
+20011018,QUICKBIRD 2,Delta II,McDonnell Douglas Corporation,CA
+20010921,ORBVIEW 4,Taurus,Orbital ATK,CA
+20010619,ICO 2,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+20010508,XM-1,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20010318,XM-2,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20001021,THURAYA-1,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20001009,HETE II,Pegasus,Orbital ATK,MH
+20000823,DM-F3 (DEMOSAT),Delta III,TBC,FL
+20000728,PAS 9,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20000714,ECHOSTAR VI,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+20000607,TSX-5,Pegasus XL,Orbital ATK,CA
+20000524,EUTELSAT W4,Atlas IIIA,Lockheed Martin Commercial Launch Services,FL
+20000312,ICOF-1,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+20000208,GLOBALSTAR 7,Delta II,McDonnell Douglas Corporation,FL
+20000203,HISPASAT-1C,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19991221,KOMPSAT/ACRIMSAT,Taurus,Orbital ATK,CA
+19991204,ORBCOMM IV,Pegasus XL,Orbital ATK,VA
+19991123,GBS F10,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19991009,DIRECTV 1R,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+19990924,IKONOS 2,Athena-2,Lockheed Martin Commercial Launch Services,CA
+19990923,ECHOSTAR V,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19990817,GLOBALSTAR 6,Delta II,McDonnell Douglas Corporation,FL
+19990725,GLOBALSTAR 5,Delta II,McDonnell Douglas Corporation,FL
+19990710,GLOBALSTAR 4,Delta II,McDonnell Douglas Corporation,FL
+19990610,GLOBALSTAR 3,Delta II,McDonnell Douglas Corporation,FL
+19990518,TERRIERS,Pegasus XL,Orbital ATK,CA
+19990505,ORION 3,Delta III,McDonnell Douglas Corporation,FL
+19990427,IKONOS 1,Athena-2,Lockheed Martin Commercial Launch Services,CA
+19990412,EUTELSAT W3,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19990328,Mass Simulator,Zenit-3SL,Sea Launch Limited Partnership,Pacific Ocean
+19990216,JCSAT-6,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19990127,ROCSAT,Athena-11,Lockheed Martin Commercial Launch Services,FL
+19981122,BONUM-1,Delta II,McDonnell Douglas Corporation,FL
+19981106,IRIDIUM 11,Delta II,McDonnell Douglas Corporation,CA
+19981023,SCD-2,Pegasus XL,Orbital ATK,FL
+19981020,GBS F9,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19981009,HOTBIRD 5,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19980923,ORBCOMM III,Pegasus XL,Orbital ATK,VA
+19980908,IRIDIUM 10,Delta II,McDonnell Douglas Corporation,CA
+19980827,GALAXY 10,Delta III,McDonnell Douglas Corporation,FL
+19980802,ORBCOMM II,Pegasus XL,Orbital ATK,VA
+19980618,INTELSAT 805,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19980610,THOR III,Delta II,McDonnell Douglas Corporation,FL
+19980517,IRIDIUM 9,Delta II,McDonnell Douglas Corporation,CA
+19980424,GLOBALSTAR 2,Delta II,McDonnell Douglas Corporation,FL
+19980330,IRIDIUM 8,Delta II,McDonnell Douglas Corporation,CA
+19980316,GBS F8,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19980228,INTELSAT 806,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19980226,SNOE,Pegasus XL,Orbital ATK,CA
+19980218,IRIDIUM 7,Delta II,McDonnell Douglas Corporation,CA
+19980214,GLOBALSTAR 1,Delta II,McDonnell Douglas Corporation,FL
+19980210,GEOSAT F/O,Taurus,Orbital ATK,CA
+19980110,SKYNET 4D,Delta II,McDonnell Douglas Corporation,FL
+19980107,Lunar Prospector,Athena-2,Lockheed Martin Commercial Launch Services,FL
+19971223,ORBCOMM I,Pegasus XL,Orbital ATK,VA
+19971220,IRIDIUM 6,Delta II,McDonnell Douglas Corporation,CA
+19971208,GALAXY 8I,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19971109,IRIDIUM 5,Delta II,McDonnell Douglas Corporation,CA
+19971005,ECHOSTAR III,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19970927,IRIDIUM 4,Delta II,McDonnell Douglas Corporation,CA
+19970904,GE-3,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19970822,LEWIS,LMLV-1,Lockheed Martin Commercial Launch Services,CA
+19970821,IRIDIUM 3,Delta II,McDonnell Douglas Corporation,CA
+19970801,SEASTAR,Pegasus XL,Orbital ATK,CA
+19970728,SUPERBIRD-C,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19970709,IRIDIUM 2,Delta II,McDonnell Douglas Corporation,CA
+19970520,THOR 2A,Delta II,McDonnell Douglas Corporation,FL
+19970505,IRIDIUM 1,Delta II,McDonnell Douglas Corporation,CA
+19970421,MINISAT I,Pegasus XL,Orbital ATK,
+19970308,TEMPO DBS,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19970217,JCSAT-4,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19961218,INMARSAT III F3,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19961121,HOT BIRD 2,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19960908,GE-1,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19960725,EHF F7,Atlas II,Lockheed Martin Commercial Launch Services,FL
+19960524,GALAXY IX,Delta II,McDonnell Douglas Corporation,FL
+19960517,MSTI III,Std Pegasus,Orbital ATK,CA
+19960430,SAX,Atlas I,Lockheed Martin Commercial Launch Services,FL
+19960424,MSX,Delta II,McDonnell Douglas Corporation,CA
+19960403,CONQUEST,Starfire 1,EER Systems Corporation,NM
+19960403,INMARSAT III F1,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19960201,PALAPA-C1,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19960114,KOREASAT-2,Delta II,McDonnell Douglas Corporation,FL
+19951215,Galaxy 3R,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+19951023,METEOR,Conestoga,EER Systems Corporation,VA
+19951022,EHF-F6,Atlas II,Lockheed Martin Commercial Launch Services,FL
+19950829,JCSAT-3,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+19950815,GEMSTAR,LLV-1,Lockheed Martin Commercial Launch Services,CA
+19950805,KOREASAT-1,Delta II,McDonnell Douglas Corporation,FL
+19950531,EHF-F5,Atlas II,Martin Marrietta,FL
+19950407,MSAT,Atlas IIA,Martin Marrietta,FL
+19950403,ORBCOMM FM1 & 2,Std Pegasus,Orbital ATK,CA
+19950322,INTELSAT-VII-705,Atlas IIAS,Martin Marrietta,FL
+19950128,EHF-F4,Atlas II,Martin Marrietta,FL
+19950110,INTELSAT-VII-704,Atlas IIAS,Martin Marrietta,FL
+19941208,CSAR II,Black Brant,EER Systems Corporation,NM
+19941129,ORION,Atlas IIA,Martin Marrietta,FL
+19941006,INTELSAT-VII-703,Atlas IIAS,Martin Marrietta,FL
+19940803,HUGHES DIRECT TV,Atlas IIA,Martin Marrietta,FL
+19940624,UHF-3,Atlas I,Martin Marrietta,FL
+19940219,GALAXY 1R-2,Delta II,McDonnell Douglas Corporation,FL
+19931216,TELSTAR 401,Atlas IIAS,General Dynamics,FL
+19931208,NATO IVB,Delta II,McDonnell Douglas Corporation,FL
+19930903,UHF-2,Atlas I,General Dynamics,FL
+19930325,UHF-1,Atlas I,General Dynamics,FL
+19930219,CONSORT-6,Starfire 1,EER Systems Corporation,NM
+19930209,SCD-1/OXP,Pegasus,Orbital ATK,VA
+19921012,KOPERNIKUS,Delta II,McDonnell Douglas Corporation,FL
+19920910,CONSORT-5,Starfire 1,EER Systems Corporation,NM
+19920831,SATCOM C4,Delta II,McDonnell Douglas Corporation,FL
+19920822,GALAXY 1R,Atlas I,General Dynamics,FL
+19920610,INTELSAT K,Atlas IIA,General Dynamics,FL
+19920514,PALAPA B-4,Delta II,McDonnell Douglas Corporation,FL
+19920314,GALAXY 5,Atlas I,General Dynamics,FL
+19911207,EUTELSAT,Atlas II,General Dynamics,FL
+19911116,CONSORT-4,Starfire 1,EER Systems Corporation,NM
+19910912,ZEST-2,TalosCastor 1,Orbital ATK,HI
+19910902,ZEST-1,TalosCastor 1,Orbital ATK,HI
+19910618,JOUST-1,Prospector,Space Data,FL
+19910529,AURORA II,Delta II,McDonnell Douglas Corporation,FL
+19910418,BS-3H,Atlas I,General Dynamics,FL
+19910413,ASC-2,Delta II,McDonnell Douglas Corporation,FL
+19910308,INMARSAT 2 FLT 2,Delta II,McDonnell Douglas Corporation,FL
+19910108,NATO IVA,Delta II,McDonnell Douglas Corporation,FL
+19901030,INMARSAT 2 FLT 1,Delta II,McDonnell Douglas Corporation,FL
+19900817,BSB-R2,Delta II,McDonnell Douglas Corporation,FL
+19900725,CRRES,Atlas I,General Dynamics,FL
+19900623,INTELSAT VI,Titan,Martin Marrietta,FL
+19900612,INSAT-1D,Delta 4925,McDonnell Douglas Corporation,FL
+19900517,CONSORT-3,Starfire 1,Space Services,NM
+19900413,PALAPA B2-R,Delta II,McDonnell Douglas Corporation,FL
+19900314,INTELSAT VI,Titan,Martin Marrietta,FL
+19900214,LOSAT,Delta II,McDonnell Douglas Corporation,FL
+19900101,JCSAT/SKYNET,Titan,Martin Marrietta,FL
+19891115,CONSORT-2,Starfire 1,Space Services,NM
+19891005,SET-1,SMLV,American Rocket,CA
+19890827,BSB-R1,Delta II,McDonnell Douglas Corporation,FL
+19890329,CONSORT-1,Starfire,Space Services,NM
